@@ -8,6 +8,6 @@ Nova branch
 Au revoir
 Done some few changes
 
-Linha 11 ( hora de dar commit)
+Apaguei a linha 11
 
 Nova hashtag
